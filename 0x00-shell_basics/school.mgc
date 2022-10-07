@@ -1,2 +1,2 @@
-0 string SCHOOL thisisaschoolfile
-!:mime
+0 string SCHOOL thisisaschoolfile data
+!:mime thisisaschoolfile
