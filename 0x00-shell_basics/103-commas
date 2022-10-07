@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --format=comma -p -a "\n"
+ls -m -a -p
