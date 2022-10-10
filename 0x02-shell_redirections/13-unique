@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq | awk {print}
+sort | uniq
