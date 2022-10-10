@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 's/c//gI'
+sed 's/c//gi'
