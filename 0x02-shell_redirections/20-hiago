@@ -1,2 +1,2 @@
 #!/bin/bash
-echo input | sed s/c//g | sed s/C//g
+cat input | sed s/c//gI
