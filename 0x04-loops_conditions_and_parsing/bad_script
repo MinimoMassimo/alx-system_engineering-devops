@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+var='some text'
+unsued_var='unsused'
+
+echo "$var"
+echo "$unsued_var"
