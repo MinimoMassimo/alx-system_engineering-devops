@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# displays "To infinity and beyond" indefinetely
+#between each eteration of the loop there is a sleep 2 to delay loop by 2 secs
+i=0
+while (( i==0 ))
+do
+	echo "To infinity and beyond"
+	sleep 2
+done
