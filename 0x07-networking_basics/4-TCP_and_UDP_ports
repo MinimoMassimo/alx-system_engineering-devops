@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-#displays the listening ports and shows PID and name of ptrogram of each socke
-
-sudo netstat -lp
